@@ -6,6 +6,9 @@ article {
         margin-bottom: 0;
     }
     & header .post-meta.comments {
+        &:visited {
+            color: $grey-color;
+        }
         margin-left: $spacing-unit;
     }
 }
