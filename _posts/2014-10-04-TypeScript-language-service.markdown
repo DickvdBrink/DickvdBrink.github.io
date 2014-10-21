@@ -3,6 +3,7 @@ layout: post
 title:  "Using the TypeScript language service in NodeJS"
 date:   2014-10-04 14:08:00
 categories: TypeScript
+comments: true
 ---
 
 **Update**: This is actually an old post, TypeScript moved to [GitHub](https://github.com/microsoft/typescript).
