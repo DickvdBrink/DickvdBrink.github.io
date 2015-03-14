@@ -1,6 +1,6 @@
 # Site settings
 title: DickvdBrink.github.io
-email: d_vandenbrink@outlook.com
+email: dickvdbrink-blog@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   Welcome to my blog. In my post I will talk about C#, TypeScript and maybe some NodeJs
   and ASP.NET. I will also talk about some of my projects and problems I encounter during programming.
